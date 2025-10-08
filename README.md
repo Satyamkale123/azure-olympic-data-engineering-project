@@ -39,4 +39,4 @@ This project demonstrates a **complete Azure-based data engineering pipeline** b
 ---
 
 ## 🧱 Pipeline Flow
-
+Data Source → Data Factory → Data Lake Gen2 (Raw) → Databricks → Data Lake Gen2 (Transformed) → Synapse Analytics → Looker Studio Dashboard
