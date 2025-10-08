@@ -1,0 +1,25 @@
+
+
+## 🧠 Key Learnings
+
+- Built a scalable **ETL data pipeline** on Azure.
+- Connected **Databricks + Data Lake** using mount points & PySpark.
+- Used **Azure Synapse SQL** for analytical querying.
+- Designed a real-time **interactive dashboard** in Looker Studio.
+
+---
+
+## 📂 Dataset
+
+- **Source:** Tokyo Olympics 2021 Dataset (Kaggle / GitHub)
+- **Files:** Athletes, Coaches, EntriesGender, Medals, Teams
+- **Records:** 11,000+ athletes, 743 teams, 47 sports
+
+---
+
+## 🧰 Tools & Technologies
+**Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Azure Data Lake Gen2, Looker Studio, Power BI, PySpark, SQL**
+
+---
+
+👨‍💻 **Developed by:** [Satyam Kale](https://www.linkedin.com/in/satyam-kale)
