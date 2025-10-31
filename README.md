@@ -27,7 +27,7 @@ This project demonstrates a **complete Azure-based data engineering pipeline** b
 
 ## 📊 Looker Studio Dashboard
 Link for Dahboard - https://lookerstudio.google.com/reporting/6cddceca-8767-497a-b9cd-1dbc4e8eefdb
-![Dashboard](tokoDashboard.png)
+![Dashboard](tokyoDashboard.png)
 
 🔗 **View Interactive Dashboard:** [Your Looker Studio Link Here]
 
