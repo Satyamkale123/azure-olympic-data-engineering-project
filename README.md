@@ -9,7 +9,7 @@ This project demonstrates a **complete Azure-based data engineering pipeline** b
 **Goal:** To design and deploy an end-to-end data pipeline that extracts, transforms, and visualizes Olympic medal data.
 
 **Architecture:**
-![Architecture](architecture_diagram.png)
+![Architecture](Architecture_diagram.png)
 
 ---
 
